@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/keywords-react/static/css/main.9b2aecbd.chunk.css",
+    "main.js": "/keywords-react/static/js/main.965e8fd1.chunk.js",
+    "main.js.map": "/keywords-react/static/js/main.965e8fd1.chunk.js.map",
+    "runtime-main.js": "/keywords-react/static/js/runtime-main.c29ac2e3.js",
+    "runtime-main.js.map": "/keywords-react/static/js/runtime-main.c29ac2e3.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/keywords-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0c39b06c.chunk.js": "/keywords-react/static/js/2.0c39b06c.chunk.js",
+    "static/js/2.0c39b06c.chunk.js.map": "/keywords-react/static/js/2.0c39b06c.chunk.js.map",
+    "index.html": "/keywords-react/index.html",
+    "precache-manifest.c31f4ed10e8ad85d3f49c29f78984299.js": "/keywords-react/precache-manifest.c31f4ed10e8ad85d3f49c29f78984299.js",
+    "service-worker.js": "/keywords-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/keywords-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.9b2aecbd.chunk.css.map": "/keywords-react/static/css/main.9b2aecbd.chunk.css.map",
+    "static/js/2.0c39b06c.chunk.js.LICENSE.txt": "/keywords-react/static/js/2.0c39b06c.chunk.js.LICENSE.txt",
+    "static/media/sstk_viewfinder_rgb.png": "/keywords-react/static/media/sstk_viewfinder_rgb.58cb5752.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c29ac2e3.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0c39b06c.chunk.js",
+    "static/css/main.9b2aecbd.chunk.css",
+    "static/js/main.965e8fd1.chunk.js"
+  ]
+}
